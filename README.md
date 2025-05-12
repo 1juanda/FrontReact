@@ -15,7 +15,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 
-PAra instalar 
+Para instalar:
 npm install
 
 Para correrlo:
